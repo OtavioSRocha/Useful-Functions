@@ -9,6 +9,7 @@ A collection of useful javascript functions.
 
 ```bash
 $ npm i useful-javascrip-functions # with NPM
+$ yarn add useful-javascrip-functions # with YARN
 ```
 Or you can clone the repo:
 
